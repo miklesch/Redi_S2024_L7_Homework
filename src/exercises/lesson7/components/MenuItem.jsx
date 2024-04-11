@@ -8,7 +8,6 @@ const MenuItem = ({ name, imageSrc }) => {
     const itemToCard = () => {
         const newItem = name;
         setSelectedMenuItem([...selectedMenuItem, newItem])
-        HandleCallback();
     }
 
     return (
