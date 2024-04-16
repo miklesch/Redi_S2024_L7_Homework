@@ -13,8 +13,8 @@ function App() {
     <div>
       {/* <Lesson7Exercise1/> */}
       {/* <Lesson7Exercise2/> */}
-      <Lesson7Exercise3/>
-      {/* <RestaurantView /> */}
+      {/* <Lesson7Exercise3/> */}
+      <RestaurantView />
       {/* <MusikStoreView /> */}
     </div>
   )
